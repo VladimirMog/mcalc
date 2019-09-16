@@ -51,7 +51,7 @@ int main()
 	int number = 0;
 	double sum = 0.0;
 	double koeff = 0.0;
-
+	cout << "Input number of power (from 1 to " << MAX_NUMBER << ") of 0 for exit." << endl;
 	while (1)
 	{
 		cout << "Number:" << endl;
